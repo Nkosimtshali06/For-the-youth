@@ -1,0 +1,20 @@
+{
+  "name": "Mtshali-Best Deals & Reviews",
+  "short_name": "we find the hottest staff around",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3498db",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/VtsPcG7/1716461114771.jpg",
+      "type": "jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.ibb.co/VtsPcG7/1716461114771.jpg",
+      "type": "jpg",
+      "sizes": "512x512"
+    }
+  ]
+}
