@@ -41,7 +41,7 @@ function closeFullScreenAd() {
 function goToPage() {
     window.location.href = 'https://www.lnksforyou.com/link/42662';
 }
-function showFullscreenAd() {
+function FullscreenAd() {
     var script = document.createElement('script');
     script.type = 'text/javascript';
     script.src = "https://vdbaa.com/pup.php?section=General&pt=2&pub=719287&ga=g";
